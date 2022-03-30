@@ -12,7 +12,7 @@ tripleAll _ = error "undefined"
 flip' :: [(Int, Int)] -> [(Int, Int)]
 flip' = map(\(x,y)->(y,x))
 main = do  
-   print (flipped [(5,6),(1,2)])
+   print(flipped [(5,6),(1,2)])
 
 sumLastPart :: Int -> [Int] -> Int
 sumLastPart _ = error "undefined"
