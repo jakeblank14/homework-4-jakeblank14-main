@@ -1,0 +1,32 @@
+name: Burns Haskell Testing
+
+on: [push]
+
+jobs:
+  build:
+    name: Autograding
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-haskell@v1
+        with:
+          ghc-version: 'latest'
+          cabal-version: 'latest'  
+
+      - name: Install dependencies
+        run: |
+          cabal install --lib tasty
+          cabal install --lib tasty-hunit
+
+      - name: Compile, Build, Link for individual tests
+        run: |
+          ghc Prog4Tests
+          ghc -o test Prog4.o Prog4Tests.o
+
+      - uses: education/autograding@v1           
+
+
+ 
+
+      
+

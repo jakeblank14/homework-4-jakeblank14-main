@@ -1,0 +1,202 @@
+{
+    "tests": [
+      {
+        "name": "test_tripleAll1",
+        "run": "./test -p test_tripleAll1",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_tripleAll2",
+        "run": "./test -p test_tripleAll2",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_tripleAll3",
+        "run": "./test -p test_tripleAll3",
+        "timeout": 2,
+        "points": 1
+      },      
+      {
+        "name": "test_flip1",
+        "run": "./test -p test_flip1",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_flip2",
+        "run": "./test -p test_flip2",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_flip3",
+        "run": "./test -p test_flip3",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_sumLastPart1",
+        "run": "./test -p test_sumLastPart1",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_sumLastPart2",
+        "run": "./test -p test_sumLastPart2",
+        "timeout": 2,
+        "points": 1
+      },  
+      {
+        "name": "test_sumLastPart3",
+        "run": "./test -p test_sumLastPart3",
+        "timeout": 2,
+        "points": 1
+      },              
+      {
+        "name": "test_middleProduct1",
+        "run": "./test -p test_middleProduct1",
+        "timeout": 2,
+        "points": 1
+      },  
+      {
+        "name": "test_middleProduct2",
+        "run": "./test -p test_middleProduct2",
+        "timeout": 2,
+        "points": 1
+      }, 
+      {
+        "name": "test_middleProduct3",
+        "run": "./test -p test_middleProduct3",
+        "timeout": 2,
+        "points": 1
+      },    
+      {
+        "name": "test_init1",
+        "run": "./test -p test_init1",
+        "timeout": 2,
+        "points": 1
+      },   
+      {
+        "name": "test_init2",
+        "run": "./test -p test_init2",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_init3",
+        "run": "./test -p test_init3",
+        "timeout": 2,
+        "points": 1
+      },  
+      {
+        "name": "test_init4",
+        "run": "./test -p test_init4",
+        "timeout": 2,
+        "points": 1
+      },                                                                    
+      {
+        "name": "test_lowerOddLetters1",
+        "run": "./test -p test_lowerOddLetters1",
+        "timeout": 2,
+        "points": 1
+      },   
+      {
+        "name": "test_lowerOddLetters2",
+        "run": "./test -p test_lowerOddLetters2",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_lowerOddLetters3",
+        "run": "./test -p test_lowerOddLetters3",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_lowerOddLetters4",
+        "run": "./test -p test_lowerOddLetters4",
+        "timeout": 2,
+        "points": 1
+      },                 
+      {
+        "name": "test_elemAt1",
+        "run": "./test -p test_elemAt1",
+        "timeout": 2,
+        "points": 1
+      },   
+      {
+        "name": "test_elemAt2",
+        "run": "./test -p test_elemAt2",
+        "timeout": 2,
+        "points": 1
+      },  
+      {
+        "name": "test_elemAt3",
+        "run": "./test -p test_elemAt3",
+        "timeout": 2,
+        "points": 1
+      },          
+      {
+        "name": "test_iSort1",
+        "run": "./test -p test_iSort1",
+        "timeout": 2,
+        "points": 1
+      },   
+      {
+        "name": "test_iSort2",
+        "run": "./test -p test_iSort2",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_iSort3",
+        "run": "./test -p test_iSort3",
+        "timeout": 2,
+        "points": 1
+      },  
+      {
+        "name": "test_middleWord1",
+        "run": "./test -p test_middleWord1",
+        "timeout": 2,
+        "points": 1
+      },   
+      {
+        "name": "test_middleWord2",
+        "run": "./test -p test_middleWord2",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_middleWord3",
+        "run": "./test -p test_middleWord3",
+        "timeout": 2,
+        "points": 1
+      },          
+      {
+        "name": "test_lowerFirstLetter1",
+        "run": "./test -p test_lowerFirstLetter1",
+        "timeout": 2,
+        "points": 1
+      },   
+      {
+        "name": "test_lowerFirstLetter2",
+        "run": "./test -p test_lowerFirstLetter2",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_lowerFirstLetter3",
+        "run": "./test -p test_lowerFirstLetter3",
+        "timeout": 2,
+        "points": 1
+      },
+      {
+        "name": "test_lowerFirstLetter4",
+        "run": "./test -p test_lowerFirstLetter4",
+        "timeout": 2,
+        "points": 1
+      }                  
+    ]
+  }
